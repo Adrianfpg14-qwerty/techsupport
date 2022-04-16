@@ -1,4 +1,4 @@
-img.myIcons{
+.myIcons{
     max-width: 1.5em;
     max-height: 1.5em;
 }
@@ -6,7 +6,8 @@ img.myIcons{
 
 
 @media (max-width: 400px) {
-    .facet_sidebar {
-      display: none;
+    .myIcons{
+        max-width: 1.5em;
+        max-height: 1.5em;
     }
   }
