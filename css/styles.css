@@ -3,11 +3,9 @@
     max-height: 1.5em;
 }
 
-
-
 @media (max-width: 400px) {
     .myIcons{
         max-width: 1.5em;
         max-height: 1.5em;
     }
-  }
+}
